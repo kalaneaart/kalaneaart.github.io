@@ -1,0 +1,13 @@
+<section>
+  <div class="project-container">
+    {% for subproject in site.data.settings.subprojects %}
+      <a href="{{ site.url }}/subprojects/{{ subproject.url }}">
+        <div class="project-unit" data-folder="{{ site.url }}/subprojects/{{ subproject.url }}" style="background-image: url({{ site.url }}/assets/img/subprojects/{{ subproject.url }}/thumbnail.jpg)">
+          <div class="project-overlay">
+            <strong>{{ subproject.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+  </section>

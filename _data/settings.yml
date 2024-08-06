@@ -2,30 +2,41 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
+- {name: 'Collections', url: ''}
+#- {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
+#- {name: 'Morro', url: 'index'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'What can we learn from',   url: 'proj-1'}
+- {name: 'Warriors',   url: 'proj-2'}
+- {name: 'Animals', url: 'proj-3'}
+#- {name: 'Project Four',  url: 'proj-4'}
+#- {name: 'Project Five',  url: 'proj-5'}
+
+#-------------------------------
+# Sub_Projects Section
+
+subprojects:
+- {name: 'Judges',   url: 'Subproj-1'}
+- {name: 'Prophets',   url: 'Subproj-2'}
+- {name: 'Patriarchs', url: 'Subproj-3'}
+#- {name: 'Project Four',  url: 'proj-4'}
+#- {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+#- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
+- {icon: 'instagram', link: 'https://instagram.com/kalaneaart'}
+#- {icon: 'github',    link: 'https://github.com/lenpaul'}
+#- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
+#- {icon: 'envelope',  link: 'mailto:kalaneaart@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
