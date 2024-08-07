@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: default
 title: 'The Judges of Israel'
+folder: judges
 ---
 
 
-{% include gallery.html folder="/assets/img/portfolio/img" %}
+{% include gallery.html %} 

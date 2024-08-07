@@ -1,6 +1,5 @@
 #-------------------------------
 # General Site Settings
-
 menu:
 - {name: 'Collections', url: ''}
 #- {name: 'Blog',     url: 'blog'}
@@ -10,7 +9,6 @@ menu:
 
 #-------------------------------
 # Projects Section
-
 projects:
 - {name: 'What can we learn from',   url: 'proj-1'}
 - {name: 'Warriors',   url: 'proj-2'}
@@ -19,14 +17,41 @@ projects:
 #- {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
-# Sub_Projects Section
-
-subprojects:
+# What can we learn from Section
+whatcanwelearnfrom:
 - {name: 'Judges',   url: 'Subproj-1'}
 - {name: 'Prophets',   url: 'Subproj-2'}
 - {name: 'Patriarchs', url: 'Subproj-3'}
 #- {name: 'Project Four',  url: 'proj-4'}
 #- {name: 'Project Five',  url: 'proj-5'}
+
+#-------------------------------
+# Judges Section
+judges:
+- {name: 'Othniel',   url: 'Othniel'}
+- {name: 'Ehud',   url: 'Ehud'}
+- {name: 'Shamgar', url: 'Shamgar'}
+- {name: 'Othniel',   url: 'Othniel'}
+- {name: 'Ehud',   url: 'Ehud'}
+- {name: 'Shamgar', url: 'Shamgar'}
+- {name: 'Othniel',   url: 'Othniel'}
+- {name: 'Ehud',   url: 'Ehud'}
+- {name: 'Shamgar', url: 'Shamgar'}
+- {name: 'Othniel',   url: 'Othniel'}
+- {name: 'Ehud',   url: 'Ehud'}
+- {name: 'Shamgar', url: 'Shamgar'}
+
+
+
+#-------------------------------
+# Warriors Section
+warriors:
+- {name: 'Jaguar Warrior',   url: 'JaguarWarrior'}
+- {name: 'Pretorian Guard',   url: 'PretorianGuard'}
+- {name: 'Templar Knight', url: 'TemplarKnight'}
+
+
+
 
 #-------------------------------
 # Contact Section
