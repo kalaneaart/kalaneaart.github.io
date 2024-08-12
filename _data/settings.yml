@@ -41,6 +41,22 @@ judges:
 - {name: 'Ehud',   url: 'Ehud'}
 - {name: 'Shamgar', url: 'Shamgar'}
 
+#-------------------------------
+# Prophets Section
+prophets:
+- {name: 'Samuel',   url: 'Samuel'}
+- {name: 'Elijah',   url: 'Elijah'}
+- {name: 'Elisha', url: 'Elisha'}
+- {name: 'Jonah',   url: 'Jonah'}
+- {name: 'Isaiah',   url: 'Isaiah'}
+- {name: 'Jeremiah', url: 'Jeremiah'}
+
+#-------------------------------
+# Patriarchs Section
+patriarchs:
+- {name: 'Abraham',   url: 'Abraham'}
+- {name: 'Isaac',   url: 'Isaac'}
+- {name: 'Jacob', url: 'Jacob'}
 
 
 #-------------------------------
@@ -50,7 +66,12 @@ warriors:
 - {name: 'Pretorian Guard',   url: 'PretorianGuard'}
 - {name: 'Templar Knight', url: 'TemplarKnight'}
 
-
+#-------------------------------
+# Warriors Section
+animals:
+- {name: 'Lion',   url: 'Feline1'}
+- {name: 'Tiger',   url: 'Feline2'}
+- {name: 'Toucan', url: 'Bird1'}
 
 
 #-------------------------------

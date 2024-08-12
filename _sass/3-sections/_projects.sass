@@ -1,6 +1,7 @@
 .project-container
   max-width: 750px
   margin: 0px auto 0px
+  padding: 30px
   +clearfix
   .project-unit
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
@@ -30,7 +31,7 @@
         color: white
         line-height: 1.2
         font:
-          size: 34px
+          size: 24px
           weight: 300
     &:hover .project-overlay
       +position(absolute, 0px 0px null 0px)
@@ -41,23 +42,19 @@
     .project-unit
       width: 80vw
       height: 40vw
-    .project-unit-gallery
-      width: 80vw
-      height: 40vw
 
 .project-container-gallery
-  width: 100%
-  display: grid
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr))
-  justify-content: center
+  max-width: 750px
+  margin: 0px auto 0px
+  padding: 30px
   +clearfix
   .project-unit-gallery
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
     cursor: pointer
     display: block
-    width: 95%
-    height: 300px
-    margin: 0px auto 20px
+    width: 400px
+    height: 200px
+    margin: 0px auto 30px
     position: relative
     overflow: hidden
     background:
@@ -79,18 +76,14 @@
         color: white
         line-height: 1.2
         font:
-          size: 34px
+          size: 24px
           weight: 300
     &:hover .project-overlay-gallery
       +position(absolute, 0px 0px null 0px)
-  
+
 @media (max-width: 768px)
   .project-container-gallery
     max-width: 80vw
-    .project-unit
-      width: 80vw
-      height: 40vw
     .project-unit-gallery
       width: 80vw
       height: 40vw
-
