@@ -1,7 +1,7 @@
 ---
-title: Kathakali
+title: Warriors
 layout: default
 description: weight of emotions and costume
-type: project
+type: artwork
 order: 4
 ---

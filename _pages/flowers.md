@@ -1,7 +1,7 @@
 ---
-title: Bastille Day'19
+title: Flowers
 layout: default
 description: viva la france
-type: project
+type: artwork
 order: 4
 ---

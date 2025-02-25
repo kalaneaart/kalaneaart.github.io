@@ -3,7 +3,7 @@ title: about
 layout: rest
 description: my new endeavour
 type: parent
-order: 2
+order: 4
 ---
 
 <div class="section main">

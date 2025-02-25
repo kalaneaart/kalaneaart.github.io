@@ -20,7 +20,7 @@ collections:
     output: true
   venice:
     output: true
-  chinatown:
+  patriarchs:
     output: true
   rimi:
     output: true
@@ -28,13 +28,13 @@ collections:
     output: true
   mumbai:
     output: true
-  cn_fishnet:
+  animals:
     output: true
   market:
-    output: 
-  bastilleday:
     output: true
-  kathakali:
+  flowers:
+    output: true
+  warriors:
     output: true 
 
 markdown: kramdown

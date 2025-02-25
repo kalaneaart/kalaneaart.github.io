@@ -2,7 +2,7 @@ title: El_photography
 url:  http://127.0.0.1:4000
 baseurl: 
 
-author: Disha Patel
+author: Abraham Abdala
 description: Discovering the world with my vision.
 
 include: ['_pages']
@@ -20,7 +20,7 @@ collections:
     output: true
   venice:
     output: true
-  chinatown:
+  learnfrom:
     output: true
   rimi:
     output: true
@@ -34,8 +34,8 @@ collections:
     output: true 
   bastilleday:
     output: true
-  kathakali:
-    output: true  
+  warriors:
+    output: false
     
 markdown: kramdown
 kramdown:
