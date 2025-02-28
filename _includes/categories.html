@@ -15,7 +15,7 @@
 <section>
     <div class="section main">
         <div class="container">
-            {% assign img_folder = site.url | append: '/assets/img/' | append: include.category | append: '/' %}
+            {% assign img_folder = '/assets/img/' | append: include.category | append: '/' %}
             {% assign mypages = site.pages | where: "type", include.category %}
             {% for page in mypages %}
             {% assign src_img = img_folder | append: page.title | append: '.jpg' %}
