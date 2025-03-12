@@ -2,6 +2,6 @@
 title: Warriors
 layout: default
 description: weight of emotions and costume
-type: artwork
+type: artwork_notyet
 order: 4
 ---
