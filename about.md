@@ -23,7 +23,7 @@ order: 4
 
 			While I'm still exploring and experimenting with my personal style, I have found something that I enjoy and would love to share with all of you.
 			My favorite subjects to paint are wildlife, flowers, and other curious things inspired by nature. I also enjoy character design, which is something I want to start exploring more often.
-			If you read this far, thank you! I hope my work can inspire you and you can learn a little something in the fun facts section.<br>
+			If you read this far, thank you! I hope my work can inspire and encourage you regardless of your current situation.<br>
 			
 		</p>
 		<hr style="height:2px;width:10%;background-color:black">
