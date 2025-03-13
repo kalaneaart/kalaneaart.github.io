@@ -19,7 +19,7 @@ order: 1
 				{% for page in mypages %}
 				<a class="button" href="{{ page.url | relative_url }}">{{ page.title }}</a>
 				{% endfor %}
-				<a class="button" href="https://kalaneaart.bigcartel.com/" target="_blank">Store</a>
+				<a class="button" href="https://kalaneaart.bigcartel.com/">Store</a>
 			</div>
 		</div>
 	</div>

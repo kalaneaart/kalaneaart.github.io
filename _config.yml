@@ -28,11 +28,11 @@ collections:
     output: true
   mumbai:
     output: true
-  animals:
-    output: true
   market:
     output: true
   flowers:
+    output: true
+  animals:
     output: true
   warriors:
     output: true 
