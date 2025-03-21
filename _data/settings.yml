@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
 facts:
-  sunflowers01.jpg: Sunflower Day | Acrylic | Canvas Panel | 10 x 8 | $70.00
-  daisies01.jpg: Cover Me | Acrylic | Canvas Panel | 8 x 10 | $80.00
-  redrose01.jpg: Garden Queen | Acrylic | Canvas Panel | 8 x 10 | $80.00
-  waterlili01.jpg: Pond Queen | Acrylic | Canvas Panel | 10 x 8 | $80.00
-  considerthelilies.jpg: Consider The Lilies | Acrylic | Canvas | 16 x 12 | $170.00
+  sunflowers01.jpg: Sunflower Day | Acrylic | Canvas Panel | 10 x 8
+  daisies01.jpg: Cover Me | Acrylic | Canvas Panel | 8 x 10
+  redrose01.jpg: Garden Queen | Acrylic | Canvas Panel | 8 x 10
+  waterlili01.jpg: Pond Queen | Acrylic | Canvas Panel | 10 x 8
+  considerthelilies.jpg: Consider The Lilies | Acrylic | Canvas | 16 x 12
 
 
 
