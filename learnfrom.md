@@ -2,7 +2,7 @@
 title: what can we learn from
 layout: rest
 description: I try to make people pose sometimes.
-type: parent
+type: parent_no
 order: 3
 ---
 
