@@ -30,7 +30,7 @@ order: 4
 		<p markdown="1" style="text-align: center;">
 			If you’re interested in commissioned work, let's chat!<br><br>
 			<a href="mailto:kalaneaart@gmail.com">kalaneaart@gmail.com</a><br><br>
-			<!-- <a href="/wcwlf/index.html">What Can We Learn From</a> -->
+			<a href="/wcwlf/index.html">What Can We Learn From</a>
 		</p>
 	</div>
 </div>
